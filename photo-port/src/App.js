@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import './App.css';
 import About from './components/About';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
@@ -8,7 +9,7 @@ import Resume from './components/Resume';
 
 function App() {
 
-  const [pages] = useState([
+  const [categories] = useState([
     { name: 'About Me' },
     { name: 'Portfolio' },
     { name: 'Resume' },
