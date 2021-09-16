@@ -1,6 +1,6 @@
 # React Portfolio 
 
-A portfolio to showcase my projects and skills using REACT. You can find the deployed page at 
+A portfolio to showcase my projects and skills using REACT. You can find the deployed page at https://sylviamarja.github.io/React-Portfolio/
 
 ## User Story
 
